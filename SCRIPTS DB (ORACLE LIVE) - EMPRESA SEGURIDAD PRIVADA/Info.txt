@@ -1,0 +1,1 @@
+La creación de cada una de las tablas se encuentran en un unico script de creacion, incluyendo algunos registros quemados para la muestras de su funcionalidad.
